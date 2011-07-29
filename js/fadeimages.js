@@ -1,0 +1,1 @@
+$(document).ready(function() {	  $('div#article-container img').hide();      $('div#article-container img').fadeIn(function(){		  });		     });

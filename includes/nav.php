@@ -1,0 +1,3 @@
+<!-- <div id="nav"> -->
+<link rel="stylesheet" href="/css/style.css?v=2"><nav>	<ul>		<a href="index.php"><li><span>Home</span></li></a>
+		<!-- <a href="/blog/"><li><span>Articles</span></li></a> -->		<a href="about.php"><li><span>About</span></li></a>		<a href="skills.php"><li><span>Skills</span></li></a>		<!-- <a href="/mywork.php"><li><span>My Work</span></li></a> -->		<a href="contact.php"><li><span>Contact</span></li></a>	</ul></nav>
